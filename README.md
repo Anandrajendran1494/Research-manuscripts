@@ -1,1 +1,6 @@
-# Research-manuscripts
+Influence of friction stir welding process parameters and statistical behaviour of the novel interlock aluminum alloys joint with SiCp reinforcemenOctober 2023CIRP Journal of Manufacturing Science and Technology 45(1):260-270DOI:10.1016/j.cirpj.2023.07.002
+An integrated ANN and design of experiments technique to optimize the FSW input parameters of novel interlock lap weldJanuary 2023Proceedings of the Institution of Mechanical Engineers Part E Journal of Process Mechanical Engineering 238(1):095440892211468DOI:10.1177/09544089221146879
+Interlock Friction Stir Weld of Dissimilar Aluminum Alloys AA 7075 T6-AA7475 T7 Using a Novel Asymmetric Dual-Pin Tool: Mechanical Properties and Microstructure CharacterizationMay 2022Metallography Microstructure and Analysis 11(3)DOI:10.1007/s13632-022-00847-w
+Effects of SiC and Al2O3 Reinforcement of Varied Volume Fractions on Mechanical and Micro Structure Properties of Interlock FSW Dissimilar Joints AA7075-T6-AA7475-T7September 2021Silicon 13(9)DOI:10.1007/s12633-020-00630-y
+Effects of SiC and Al2O3 Reinforcement of Varied Volume Fractions on Mechanical and Micro Structure Properties of Interlock FSW Dissimilar Joints AA7075-T6-AA7475-T7September 2021Silicon 13(9)DOI:10.1007/s12633-020-00630-y
+Microstructure and mechanical properties of interlock friction stir weld lap joint AA7475-T7 using fractional factorial designMarch 2021ARCHIVE Proceedings of the Institution of Mechanical Engineers Part C Journal of Mechanical Engineering Science 1989-1996 (vols 203-210)DOI:10.1177/0954406221996393
